@@ -1,2 +1,1 @@
-# Project6mini_project
-# Project6mini_project
+шаблон сайта на основе своей мини-библиотеки
